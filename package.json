@@ -1,0 +1,9 @@
+{
+  "name": "stallion-chat",
+  "version": "0.0.1",
+  "description": "Chat para usuarios",
+  "dependencies": {
+    "express": "4.3.1",
+    "socket.io": "1.0.2"
+  }
+}
